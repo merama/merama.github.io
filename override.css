@@ -1,0 +1,53 @@
+.nav-link-color{
+  color: black;
+}
+
+#fontchange{
+  font-size: 1.1rem;
+}
+.card-img-top {
+    width: 100%;
+    height: 45%;
+    object-fit: cover;
+}
+
+.tag{
+  color: #b31b1b;
+}
+
+.btn{
+   background-color: blue;
+}
+
+#centeralign
+{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+
+}
+
+#padding{
+  padding-top: 4%;
+  padding-bottom: 2%;
+}
+
+#heading-name{
+  font-size: 1.5rem;
+}
+#cornellred {
+  color: #b31b1b;
+}
+
+#hr-width{
+  width:40%;
+}
+
+#heading-format{
+
+    font-size: 1.2rem;
+}
+
+a{
+  color:  #b31b1b;
+}
