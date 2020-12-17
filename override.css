@@ -11,6 +11,10 @@
     object-fit: cover;
 }
 
+.right-text{
+  text-align: right;
+}
+
 .tag{
   color: #b31b1b;
 }
